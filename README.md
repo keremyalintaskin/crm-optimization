@@ -11,8 +11,6 @@ Bu repo, müşteri hizmetleri temsilcisi atama ve pazarlama kampanyası optimiza
 - [Kullanım](#kullanım)
 - [Gereksinimler](#gereksinimler)
 - [Örnekler](#örnekler)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 
 ## Genel Bakış
 
